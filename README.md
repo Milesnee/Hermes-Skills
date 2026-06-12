@@ -19,6 +19,11 @@ Extracts and processes YouTube video transcripts — full text, structured notes
 
 **Tags:** `#youtube` `#transcript` `#content` `#media`
 
+### 🏆 laowang-gold-framework
+老王黄金框架改进版 — 五因素黄金多空信号检测。美联储利率(50%)+央行购金(20%)+美股(10%)+ETF/期货(25%)+参考系调节因子(±15%乘性)。含独立评审报告和实时信号脚本。
+
+**Tags:** `#gold` `#commodities` `#macro` `#trading-system` `#factor-model`
+
 ## Usage
 
 Skills are designed for [Hermes Agent](https://hermes-agent.nousresearch.com). To use a skill:
